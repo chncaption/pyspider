@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.11.9
 MAINTAINER binux <roy@binux.me>
 
 # install phantomjs
